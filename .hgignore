@@ -1,7 +1,0 @@
-syntax: regexp
-.exe
-.o
-.in
-syntax: glob
-p
-p136.png
